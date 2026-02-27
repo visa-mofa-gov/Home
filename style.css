@@ -191,7 +191,7 @@ body {
         font-size: 11px;
     }
     .visa-container {
-        padding: 10px;
+        padding-top: 30px;
     }
     .hero-section{
         padding: 0 30px;
@@ -213,3 +213,4 @@ body {
         height: 100px;
     }
 }
+
